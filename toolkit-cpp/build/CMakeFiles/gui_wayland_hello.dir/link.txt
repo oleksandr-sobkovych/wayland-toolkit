@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/gui_wayland_hello.dir/hello_wayland.c.o -o gui_wayland_hello  /usr/lib/libwayland-client.so /usr/lib/libcairo.so /usr/lib/libEGL.so /usr/lib/libwayland-egl.so /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so /usr/lib/libpango-1.0.so -lpangocairo-1.0 -L/usr/lib -lgobject-2.0 -lglib-2.0 

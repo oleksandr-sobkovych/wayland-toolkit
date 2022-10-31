@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="wayland_hello" targetName="gui_wayland_hello" />
+      <config projectName="wayland_hello" targetName="gui_wayland_hello_egl" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-Virtual Ubuntu 2 x64" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Virtual Ubuntu 2 x64" />
+      <configuration PROFILE_NAME="RelWithDebInfo-Virtual Ubuntu 2 x64" CONFIG_NAME="RelWithDebInfo" TOOLCHAIN_NAME="Virtual Ubuntu 2 x64" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e17f63f0-00ad-4f7d-8e9e-2d05471b8cd2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-Virtual Ubuntu 2 x64" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\WorkTeaching\UCU\lectures\code\os\gui_wayland\hello_wayland\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="xsYIwfyS" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/hello_wayland.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/deployment.xml" />
+        <option value="$PROJECT_DIR$/.idea/other.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PG8KtuXr9gQEVlxU2Jr9EgiMg1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkTeaching\UCU\lectures\code\os\gui_wayland\hello_wayland" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.gui_wayland_hello">
+    <configuration name="gui_wayland_hello" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wayland_hello" TARGET_NAME="gui_wayland_hello" CONFIG_NAME="Debug-Virtual Ubuntu 2 x64" RUN_TARGET_PROJECT_NAME="wayland_hello" RUN_TARGET_NAME="gui_wayland_hello">
+      <envs>
+        <env name="DISPLAY" value="192.168.1.111:0.0" />
+      </envs>
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gui_wayland_hello_egl" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wayland_hello" TARGET_NAME="gui_wayland_hello_egl" CONFIG_NAME="Debug-Virtual Ubuntu 2 x64" RUN_TARGET_PROJECT_NAME="wayland_hello" RUN_TARGET_NAME="gui_wayland_hello_egl">
+      <envs>
+        <env name="DISPLAY" value=":0.0" />
+      </envs>
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gui_wayland_hello_egl_no_xdg" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wayland_hello" TARGET_NAME="gui_wayland_hello_egl_no_xdg" CONFIG_NAME="Debug-Virtual Ubuntu 2 x64" RUN_TARGET_PROJECT_NAME="wayland_hello" RUN_TARGET_NAME="gui_wayland_hello_egl_no_xdg">
+      <envs>
+        <env name="DISPLAY" value="192.168.1.106:0.0" />
+      </envs>
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.gui_wayland_hello" />
+      <item itemvalue="CMake Application.gui_wayland_hello_egl" />
+      <item itemvalue="CMake Application.gui_wayland_hello_egl_no_xdg" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e17f63f0-00ad-4f7d-8e9e-2d05471b8cd2" name="Default Changelist" comment="" />
+      <created>1565489011703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565489011703</updated>
+      <workItem from="1565489015002" duration="21652000" />
+      <workItem from="1565862638795" duration="49371000" />
+      <workItem from="1566052941925" duration="21832000" />
+      <workItem from="1566188899844" duration="11841000" />
+      <workItem from="1566220895136" duration="2582000" />
+      <workItem from="1566661782884" duration="14538000" />
+      <workItem from="1566746070065" duration="296000" />
+      <workItem from="1571324004318" duration="5741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="PANGO_SCALE" language="ObjectiveC" />
+        <watch expression="window_size" language="ObjectiveC" />
+        <watch expression="geometry" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
