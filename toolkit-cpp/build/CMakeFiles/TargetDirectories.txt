@@ -1,5 +1,0 @@
-/home/osobkovych/Documents/Study/UCU/Course_3-1/OS/Project/defense_1/gui_wayland/hello_wayland/build/CMakeFiles/gui_wayland_hello.dir
-/home/osobkovych/Documents/Study/UCU/Course_3-1/OS/Project/defense_1/gui_wayland/hello_wayland/build/CMakeFiles/gui_wayland_hello_egl.dir
-/home/osobkovych/Documents/Study/UCU/Course_3-1/OS/Project/defense_1/gui_wayland/hello_wayland/build/CMakeFiles/myhello.dir
-/home/osobkovych/Documents/Study/UCU/Course_3-1/OS/Project/defense_1/gui_wayland/hello_wayland/build/CMakeFiles/edit_cache.dir
-/home/osobkovych/Documents/Study/UCU/Course_3-1/OS/Project/defense_1/gui_wayland/hello_wayland/build/CMakeFiles/rebuild_cache.dir

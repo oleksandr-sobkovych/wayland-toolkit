@@ -1,7 +1,0 @@
-# Hashes of file build rules.
-49caeca5df3721a46eaf38a998f1b270 xdg-decoration-unstable-v1.c
-5c7aa0dd9980a26def0336dd65729044 xdg-decoration-unstable-v1.h
-5037dde6d585a3fb51a0e905b1cb4c40 xdg-shell-client-protocol.c
-22f9450de6f0d2566cdc2621e3086442 xdg-shell-client-protocol.h
-d1664296b34dd103c7858a1e356bedf4 xdg-shell-unstable-v6.c
-d3793fce502ec72b89774ef976065e5e xdg-shell-unstable-v6.h
