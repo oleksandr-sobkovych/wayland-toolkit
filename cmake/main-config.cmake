@@ -1,0 +1,6 @@
+include(cmake/FindCairo.cmake)
+include(cmake/FindEGL.cmake)
+include(cmake/FindGLib.cmake)
+include(cmake/FindHarfBuzz.cmake)
+include(cmake/FindPango.cmake)
+include(cmake/FindWayland.cmake)
